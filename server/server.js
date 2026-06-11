@@ -1,7 +1,7 @@
 import express from "express";
 
 // Importing Routes
-import instagramRouter from "./routes/instagram.js";
+import instagramRouter from "./routes/instagramDataApi.js";
 
 const app = express();
 
