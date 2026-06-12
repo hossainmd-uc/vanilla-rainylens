@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Other
-instagram.js
+instagram-api.js
